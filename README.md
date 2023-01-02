@@ -4,8 +4,6 @@ Hi 👋 My name is Daniil
 Python Web Developer
 --------------------
 
-I'm student and learning Back-end web development.
-
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [algadkim@gmail.com](mailto:algadkim@gmail.com)
 * Skills<p align="left">
